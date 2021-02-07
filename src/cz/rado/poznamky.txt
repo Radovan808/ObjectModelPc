@@ -1,0 +1,15 @@
+PC (pocet modulu na paměť) - modularni
+Mikroprocesor (vyrobce a frenkvence)
+Paměť (velikost a rychlost)
+Karty (TypKarty)
+
+vlozeni pameti
+    - jak různé rychlosti - tak vyjimka
+    - 1 nebo sudý počet - jinak vyjimka
+
+vložit procesor
+
+vložit kartu
+
+Konfigurátor - implementace
+Konfigurovatelny
